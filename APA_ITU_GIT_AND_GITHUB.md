@@ -27,4 +27,4 @@ GITHUB juga terdapat sebuah GIT di dalam cloudnya sehingga memungkinkan kita unt
 ktia juga bisa menggunakan GIT pada laptop kita dengan terkoneksikan oleh GITHUB karena di dalam GITHUB terdapat GIT sehingga kita bisa menggunakan GITHUB dengan tim kita untuk membuat sebuah code di dalam repository.
 
 ## Screenshot
-
+![img.png](img.png)
