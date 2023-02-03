@@ -9,7 +9,9 @@ fakultas: STEI-K
 ```
 
 2. Pengalaman di bidang robotika
+```
 belum ada
+```
 
 3. Harapan setelah mengikuti sekuro
 ```
