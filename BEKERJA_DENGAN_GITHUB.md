@@ -26,3 +26,4 @@ Jika kita sudah membuat sebuah repository di dalam akun kita maka kita dapat mem
 setelah membuatnya ktia akan melakukan "commit" pada file tersebuat dengan mengisi message dan deskripsi setelah itu kita akan melakukan push pada file yang sudah kita buat tersebut.
 
 ## Screenshot
+![img_1.png](img_1.png)
