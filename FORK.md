@@ -17,3 +17,4 @@ setelah itu repository akan berpindah ke akun kalian dan akan terlihat jika kali
 
 
 ## Screenshot
+![img_4.png](img_4.png)
