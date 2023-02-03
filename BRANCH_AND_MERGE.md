@@ -23,3 +23,4 @@ Cara menghapus sebuah branch cukup simpel dengan mengetikkan "branch -d <nama br
 Branch yang dipilih akan terhapus. cek saja dengan menggunakan git status maka branch yang dipilih akan menghilang.
 
 ## Screenshot
+![img_3.png](img_3.png)
