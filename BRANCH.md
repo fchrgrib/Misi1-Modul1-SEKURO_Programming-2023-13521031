@@ -21,3 +21,4 @@ kita lalu memilih branch master untuk kita gabungkan ke branch tersebut. lalu ki
 
 ## Screenshot
 
+![img_2.png](img_2.png)
