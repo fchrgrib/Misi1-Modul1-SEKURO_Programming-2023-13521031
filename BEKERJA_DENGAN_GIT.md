@@ -28,3 +28,4 @@ dengan cara "git commit -m "(masukkan nama commit)"" lalu tekan enter, setelah i
 tetapi sebelum itu lakukanlah config terlebih dahulu dengan mengikuti arahan dari git.
 
 ## Screenshot
+
