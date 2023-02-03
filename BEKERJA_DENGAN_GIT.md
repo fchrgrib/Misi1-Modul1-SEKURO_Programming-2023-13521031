@@ -29,3 +29,4 @@ tetapi sebelum itu lakukanlah config terlebih dahulu dengan mengikuti arahan dar
 
 ## Screenshot
 
+![img.png](img.png)
