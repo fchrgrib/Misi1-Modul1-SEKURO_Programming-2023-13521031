@@ -17,3 +17,4 @@ cara melakukannya adalah dengan cara buatlah sebuah file pada folder yang akan k
 setelah itu lakukan git add dan file txt tersebut akan tidak ditambahkan saat melakukan git add.
 
 ## Screenshot
+![img_5.png](img_5.png)
